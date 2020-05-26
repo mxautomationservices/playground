@@ -1,0 +1,2 @@
+superuser:playground
+superpass:playground
